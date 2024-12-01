@@ -1,8 +1,8 @@
-def Part1(input: str) -> int:
-    print(f"part1 solution: {input}")
-    return 0
+def part_1(input: str) -> int:
+    answer = 0
+    return answer
 
 
-def Part2(input: str) -> int:
-    print(f"part2 solution: {input}")
-    return 0
+def part_2(input: str) -> int:
+    answer = 0
+    return answer

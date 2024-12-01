@@ -1,4 +1,4 @@
-from .solution import Part1, Part2
+from solution import part_1, part_2
 
 ##################
 # Helper Methods #
@@ -28,7 +28,7 @@ def test_part_1():
     }
 
     for k, v in inputs.items():
-        run_test(Part1, k, v)
+        run_test(part_1, k, v)
 
 
 def test_part_2():
@@ -39,4 +39,4 @@ def test_part_2():
     }
 
     for k, v in inputs.items():
-        run_test(Part2, k, v)
+        run_test(part_2, k, v)

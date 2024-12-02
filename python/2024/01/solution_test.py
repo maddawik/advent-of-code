@@ -36,7 +36,7 @@ def test_part_1():
         "9   3": 6,
         "2   2": 0,
         sample_input: 11,
-        real_input: 0,  # Ravioli, ravioli... GIVE ME THE FORMUOLI!!
+        real_input: 1603498,  # Ravioli, ravioli... GIVE ME THE FORMUOLI!!
     }
 
     for k, v in inputs.items():
@@ -48,7 +48,7 @@ def test_part_2():
 
     inputs = {
         sample_input: 31,
-        real_input: 0,  # Ravioli, ravioli... GIVE ME THE FORMUOLI!!
+        real_input: 25574739,  # Ravioli, ravioli... GIVE ME THE FORMUOLI!!
     }
 
     for k, v in inputs.items():

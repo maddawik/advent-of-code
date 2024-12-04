@@ -1,8 +1,8 @@
 def part_1(input: str) -> int:
-    answer = 0
-    return answer
+    result = 0
+    return result
 
 
 def part_2(input: str) -> int:
-    answer = 0
-    return answer
+    result = 0
+    return result
